@@ -182,6 +182,7 @@ All of which are optional except `type` with very logical default values.
 ## Author
 
 John Crepezzi <john.crepezzi@gmail.com> - Creator
+
 Gh0stByte <gh0stbyte01@gmail.com> - Modifications
 
 
@@ -190,6 +191,7 @@ Gh0stByte <gh0stbyte01@gmail.com> - Modifications
 (The MIT License)
 
 Original work Copyright © 2011-2012 John Crepezzi
+
 Modified work Copyright © 2016 Gh0stByte of gh0stbyte.ga
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
